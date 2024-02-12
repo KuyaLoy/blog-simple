@@ -8,7 +8,7 @@ export const ARTICLES: Article[] = [
     descriptiom: "This is my first article! It's great. Please read it. :)",
     key: "my-first-article",
     date: new Date(),
-    imageUrl: "https://angular.io/assets/images/logos/angular/logo-nav@2x.png",
+    imageUrl: "https://angular.io/assets/images/logos/angular/angular.svg",
   },
   {
     id: 2,
@@ -17,6 +17,7 @@ export const ARTICLES: Article[] = [
     descriptiom: "Also a greate article!",
     key: "my-second-article",
     date: new Date(),
-    imageUrl: "https://angular.io/assets/images/logos/angular/shield-large.svg",
+    imageUrl:
+      "https://angular.io/assets/images/logos/angular/angular_solidBlack.svg",
   },
 ];
