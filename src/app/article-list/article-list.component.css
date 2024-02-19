@@ -11,15 +11,13 @@
 h3 {
   font-size: 32px;
 }
+
 img {
   width: 100%;
   max-height: 200px;
+  height: 100%;
 }
-.meta-infot {
-  color: grey;
-  margin-top: -28px;
-  font-size: 14px;
-}
+
 .continue-reading {
   font-style: italic;
   color: grey;

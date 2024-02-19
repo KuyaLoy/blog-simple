@@ -4,6 +4,6 @@ export class Article {
   key: string = "";
   date: Date = new Date();
   content: string = "";
-  descriptiom: string = "";
+  description: string = "";
   imageUrl: string = "";
 }

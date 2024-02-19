@@ -7,6 +7,8 @@ import { NavBarComponent } from "./nav-bar/nav-bar.component";
 import { ArticleListComponent } from "./article-list/article-list.component";
 import { FooterComponent } from "./footer/footer.component";
 import { AboutComponent } from "./about/about.component";
+import { ArticleComponent } from "./article/article.component";
+import { NotFoundComponent } from "./not-found/not-found.component";
 
 @NgModule({
   declarations: [
@@ -15,6 +17,8 @@ import { AboutComponent } from "./about/about.component";
     ArticleListComponent,
     FooterComponent,
     AboutComponent,
+    ArticleComponent,
+    NotFoundComponent,
   ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
